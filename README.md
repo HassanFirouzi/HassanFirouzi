@@ -47,12 +47,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)<br/><br/><br/><br/>
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Overview:**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanFirouzi&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=HassanFirouzi&show_icons=true&theme=tokyonight)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HassanFirouzi&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-contributor-stats.vercel.app/api?username=HassanFirouzi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi)
