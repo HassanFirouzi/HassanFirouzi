@@ -4,6 +4,9 @@
   
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">
 
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" style="vertical-align: middle;">
+</p>
+
   
   
 
@@ -15,10 +18,20 @@
 
 
 ### 👨🏻‍💻 About Me
--  Currently learning **React** and **React Native**, while exploring **full-stack development**
--  I enjoy creating user-friendly interfaces and efficient backend systems
--  Passionate about building mobile apps that make an impact
--  Fun fact: I can spend hours perfecting UI animations and writing clean, structured code
+Hello, I am an active Full-stack Developer specializing in the libraries of React and React Native for the frontend and Node.js-MongoDB for the backend.
+
+My aim is towards having the cleanest, most optimized and easiest-to-read code.
+
+Among my skills are being suitable for teamwork, adapting to different working conditions, learning new information significantly quicker and great capability of communication.
+
+### My experiences include: 
+• I have worked with modern technologies such as React, Node.js, React Native, and Next.js in web and mobile development processes.<br/>
+• Utilization of HTML, CSS, TypeScript and JavaScript languages with React.js library<br/>
+• Utilizing a broad range of APIs in collaboration with back-end developers.<br/>
+• Developing web applications, optimized single-page applications(SPA) and UIs.<br/>
+• Experience on projects both in a group and as a solo developer.<br/>
+• Participated projects include E-commerce websites, social media websites, educational websites and more.<br/>
+
 
 ---
 
