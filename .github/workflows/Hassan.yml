@@ -1,0 +1,28 @@
+name: Hassan
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    name: Generate GitHub Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # username should be your GitHub user name
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: HassanFirouzi
+
+      - name: Commit and push
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add .
+          git commit -m "update metrics" || echo "no changes"
+          git push
