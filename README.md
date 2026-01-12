@@ -84,6 +84,8 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 
 
+
+
 <!--(_____________________________________________END CODE_____________________________________________)-->
 <!--  -->
 
@@ -225,7 +227,9 @@ Genel Code
 
 👥 **Social**
 ![Followers](https://img.shields.io/github/followers/HassanFirouzi)
+----
 
+![Stats](https://raw.githubusercontent.com/HassanFirouzi/stats/main/stats.svg)
 -->
 
 
