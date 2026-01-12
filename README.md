@@ -83,6 +83,7 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 </p>
 
 
+
 <!--(_____________________________________________END CODE_____________________________________________)-->
 <!--  -->
 
@@ -199,6 +200,7 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 <!--
 Genel Code
+- Loading
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00FF99&center=true&width=435&lines=Loading...)
 
@@ -212,6 +214,17 @@ Genel Code
 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=HassanFirouzi&color=36BCF7)
+
+
+### 📊 GitHub Overview
+
+![Followers](https://img.shields.io/github/followers/HassanFirouzi?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/HassanFirouzi?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge)
+----
+
+👥 **Social**
+![Followers](https://img.shields.io/github/followers/HassanFirouzi)
 
 -->
 
