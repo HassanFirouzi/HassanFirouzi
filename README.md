@@ -44,7 +44,7 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" />    Tech Stack & Tools
+### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" />    Tech Stack & Tools
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
@@ -79,7 +79,7 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Overview:**
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Overview:**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanFirouzi&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=HassanFirouzi&show_icons=true&theme=tokyonight)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HassanFirouzi&theme=tokyonight&hide_border=false)<br/>
