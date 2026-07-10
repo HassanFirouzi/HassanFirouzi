@@ -10,7 +10,7 @@
   
   
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 💻 I'm currently a **MERN Fullstack Developer**.  
 📝 I use HTML, CSS, JS, TypeScript, React.js, Next.js, Node.js, Express and MongoDB in my projects.<br/><br/>
@@ -35,7 +35,7 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 • Participated projects include E-commerce websites, social media websites, educational websites and more.<br/>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 #### 🔗 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer)
@@ -75,15 +75,20 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)<br/><br/>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Overview:**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanFirouzi&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=HassanFirouzi&show_icons=true&theme=tokyonight)<br/><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=HassanFirouzi&theme=tokyonight&hide_border=false)<br/>
 
+
 ![](https://github-contributor-stats.vercel.app/api?username=HassanFirouzi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="wave" />
