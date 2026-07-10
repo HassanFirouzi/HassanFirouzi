@@ -2,7 +2,7 @@
 
 <p align="left">
   
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="150" alt="coding animation" style="vertical-align: middle;">
 
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" style="vertical-align: middle;">
 </p>
