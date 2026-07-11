@@ -37,10 +37,12 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
+<!--
 #### 🔗 Connect with Me:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haspheer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer)
-
-
+  -->
 
 
 
@@ -80,15 +82,17 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Overview:**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanFirouzi&theme=tokyonight&hide_border=false&layout=compact)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=HassanFirouzi&show_icons=true&theme=tokyonight)<br/><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HassanFirouzi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HassanFirouzi&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.shion.dev/api?username=HassanFirouzi&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=HassanFirouzi&theme=shadow_blue&hide_border=true)<br/>
 
 
-![](https://github-contributor-stats.vercel.app/api?username=HassanFirouzi&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi) <br/>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haspheer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
@@ -99,6 +103,12 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0044ff&height=120&section=footer" alt="footer wave"/>
 </p>
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -249,6 +259,9 @@ Genel Code
 ----
 
 ![Stats](https://raw.githubusercontent.com/HassanFirouzi/stats/main/stats.svg)
+
+
+
 -->
 
 
