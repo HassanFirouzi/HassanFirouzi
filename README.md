@@ -87,7 +87,6 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 ![](https://streak-stats.demolab.com/?user=HassanFirouzi&theme=shadow_blue&hide_border=true)<br/>
 
 
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi) <br/>
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haspheer@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanfirouzi)
@@ -96,9 +95,13 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
-<p align="center">
+<div align="center">
+    <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
+</div>
+
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="wave" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0044ff&height=120&section=footer" alt="footer wave"/>
