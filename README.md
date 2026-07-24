@@ -6,19 +6,7 @@
 
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" style="vertical-align: middle;">
 </p>
------H
 
-# 💻 Tech Stack:
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) 
-
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) 
-
-  
------H
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 💻 I'm currently a **MERN Fullstack Developer**.  
