@@ -18,13 +18,13 @@
 
 
 ### 👨🏻‍💻 About Me
-Hello, I am an active Full-stack Developer specializing in the libraries of React and React Native for the frontend and Node.js-MongoDB for the backend.
+Hello, I'm a passionate Full-Stack Developer specializing in the libraries of React and React Native for the frontend and Node.js-MongoDB for the backend.
 
 My aim is towards having the cleanest, most optimized and easiest-to-read code.
 
 Among my skills are being suitable for teamwork, adapting to different working conditions, learning new information significantly quicker and great capability of communication.
 
-### My experiences include: 
+### 💼 My experiences include: 
 Software Developer specializing in React, React Native, Node.js, and MERN stack. Experienced in building scalable backend systems and intuitive mobile/frontend applications. Passionate about full-stack development and delivering polished, privacy-conscious solutions.<br/>
 
 • I have worked with modern technologies such as React, Node.js, React Native, and Next.js in web and mobile development processes.<br/>
