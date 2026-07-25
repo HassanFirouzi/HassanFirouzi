@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=fff)
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=fff" alt="header" />
+
+</div>
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="65" /> 
@@ -196,9 +200,11 @@ Software Developer specializing in React, React Native, Node.js, and the MERN st
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="wave" />
 </p> -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00aaff,100:0044ff&height=120&section=footer" alt="footer wave"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,100:36BCF7&height=120&section=footer" width="100%" />
+
+</div>
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi) ![Followers](https://img.shields.io/github/followers/HassanFirouzi)<br/>
