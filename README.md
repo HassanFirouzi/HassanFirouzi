@@ -4,11 +4,13 @@
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="65" />
-  &nbsp;&nbsp;
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" />
-</p>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="65" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=MERN+Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" />
+
+</div>
 
 <div align="center">
 
