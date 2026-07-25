@@ -33,21 +33,24 @@ Developing scalable web and mobile applications with React, React Native, Next.j
 
 
 ### 👨🏻‍💻 About Me
-Hello, I'm a passionate Full-Stack Developer specializing in the libraries of React and React Native for the frontend and Node.js-MongoDB for the backend.
+Hello, I'm a passionate Full-Stack Developer specializing in React and React Native for frontend development, with Node.js and MongoDB for backend solutions.
 
-My aim is towards having the cleanest, most optimized and easiest-to-read code.
+My goal is to write clean, optimized, and maintainable code while building efficient and user-friendly applications.
 
-Among my skills are being suitable for teamwork, adapting to different working conditions, learning new information significantly quicker and great capability of communication.
+I am adaptable to different working environments, enjoy teamwork, quickly learn new technologies, and have strong communication skills.
 
-### 💼 My experiences include: 
-Software Developer specializing in React, React Native, Node.js, and MERN stack. Experienced in building scalable backend systems and intuitive mobile/frontend applications. Passionate about full-stack development and delivering polished, privacy-conscious solutions.<br/>
 
-• I have worked with modern technologies such as React, Node.js, React Native, and Next.js in web and mobile development processes.<br/>
-• Utilization of HTML, CSS, TypeScript and JavaScript languages with React.js library<br/>
-• Utilizing a broad range of APIs in collaboration with back-end developers.<br/>
-• Developing web applications, optimized single-page applications(SPA) and UIs.<br/>
-• Experience on projects both in a group and as a solo developer.<br/>
-• Participated projects include E-commerce websites, social media websites, educational websites and more.<br/>
+
+### 💼 My Experience Includes
+
+Software Developer specializing in React, React Native, Node.js, and the MERN stack. Experienced in building scalable backend systems and intuitive web/mobile applications. Passionate about full-stack development and delivering polished, privacy-conscious solutions.
+
+- Worked with modern technologies such as React, React Native, Node.js, and Next.js in web and mobile development.
+- Developed applications using HTML, CSS, JavaScript, and TypeScript with React.js.
+- Integrated and utilized various APIs in collaboration with backend systems.
+- Built optimized web applications, single-page applications (SPA), and responsive user interfaces.
+- Experienced in both team-based projects and independent development.
+- Worked on various projects including e-commerce platforms, social media applications, educational platforms, and more.
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
