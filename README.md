@@ -174,7 +174,7 @@ Software Developer specializing in React, React Native, Node.js, and the MERN st
 <h3>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
-&nbsp;
+&nbsp;&nbsp;
 <b>Overview:</b>
 </h3>
 
