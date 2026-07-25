@@ -1,17 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=fff)
 
-<p align="left">
-  
+<p align="center">
   <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="150" alt="coding animation" style="vertical-align: middle;">
 
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" style="vertical-align: middle;">
 </p>
 
+<div align="center">
+
+Welcome! This is where I share the projects I've built, the technologies I work with, and the ideas I'm currently exploring.
+
+My repositories cover modern web and mobile development using **React.js**, **Next.js**, **React Native**, **Node.js**, **Express.js**, **MongoDB**, and **TypeScript**. From responsive frontends to scalable backend services, each project reflects my commitment to writing clean, maintainable, and efficient code.
+</div>
+
+
+<p align="center">
+  <a href="mailto:haspheer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/hassanfirouzi">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/haspheer">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
-
-💻 I'm currently a **MERN Fullstack Developer**.  
-📝 I use HTML, CSS, JS, TypeScript, React.js, Next.js, Node.js, Express and MongoDB in my projects.<br/><br/>
-
 
 
 ### 👨🏻‍💻 About Me
@@ -179,9 +195,6 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 </p>
 
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haspheer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanfirouzi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer)<br/>
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi) ![Followers](https://img.shields.io/github/followers/HassanFirouzi)<br/>
 
 
