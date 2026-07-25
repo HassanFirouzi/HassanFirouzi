@@ -12,6 +12,7 @@ Welcome! This is where I share the projects I've built, the technologies I work 
 
 My repositories cover modern web and mobile development using **React.js**, **Next.js**, **React Native**, **Node.js**, **Express.js**, **MongoDB**, and **TypeScript**. From responsive frontends to scalable backend services, each project reflects my commitment to writing clean, maintainable, and efficient code.
 </div>
+<br/><br/>
 
 
  <table width="100%", align="center">
