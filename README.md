@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=fff)
 
 <p align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="150" alt="coding animation" style="vertical-align: middle;">
-
+   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="65" /> 
+  &nbsp;&nbsp;
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=MERN+Full+Stack+Developer;React+%7C+React+Native+%7C+NodeJS" width="435" alt="Typing SVG" style="vertical-align: middle;">
 </p>
 
@@ -56,7 +56,9 @@ Software Developer specializing in React, React Native, Node.js, and the MERN st
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" />    Tech Stack & Tools
+<h3>
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/programming-animated-icon-gif-download-11871363.gif" width="100" alt="coding animation" style="vertical-align: middle;">Tech Stack & Tools
+</h3>
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) 
@@ -169,7 +171,13 @@ Software Developer specializing in React, React Native, Node.js, and the MERN st
 </tr>
 </table> -->
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **Overview:**
+<h3>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
+&nbsp;
+<b>Overview:</b>
+</h3>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HassanFirouzi&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact) <br/>
 <!--
 ![](https://github-readme-stats.shion.dev/api?username=HassanFirouzi&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
