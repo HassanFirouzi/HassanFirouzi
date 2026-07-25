@@ -14,7 +14,7 @@ My repositories cover modern web and mobile development using **React.js**, **Ne
 </div>
 
 
- <table width="100%", height=30px, align=center>
+ <table width="100%", align=center>
 <tr>
 
 <td align="center">
