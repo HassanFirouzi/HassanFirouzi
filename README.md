@@ -38,6 +38,19 @@ Developing scalable web and mobile applications with React, React Native, Next.j
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 
+
+
+<!-- <img src="https://cdnl.iconscout.com/lottie/premium/thumb/user-profile-animation-download-11871366.gif" width="100" alt="profile animation">
+
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/developer-working-animation-download-11871362.gif" width="100" alt="developer animation">
+
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/learning-animation-download-11871364.gif" width="100" alt="learning animation">
+
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/creative-thinking-animation-download-11871365.gif" width="100" alt="creative animation">
+ -->
+
+
+
 ### 👨🏻‍💻 About Me
 Hello, I'm a passionate Full-Stack Developer specializing in React and React Native for frontend development, with Node.js and MongoDB for backend solutions.
 
