@@ -14,17 +14,24 @@ My repositories cover modern web and mobile development using **React.js**, **Ne
 </div>
 
 
-<p align="center">
-  <a href="mailto:haspheer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/hassanfirouzi">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/haspheer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+ <table width="100%", height=30px, align=center>
+<tr>
+
+<td align="center">
+
+<a href="mailto:haspheer@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/hassanfirouzi">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/haspheer">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</td>
+</tr>
+</table>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
@@ -49,14 +56,6 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
-
-<!--
-#### 🔗 Connect with Me:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haspheer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassan)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haspheer)
-  -->
-
 
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40" />    Tech Stack & Tools
@@ -95,6 +94,7 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)<br/><br/>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
@@ -186,7 +186,7 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
     <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
 </div>
 
-<!-- <p align="center">
+<!-- MAR <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="wave" />
 </p> -->
 
@@ -197,31 +197,6 @@ Software Developer specializing in React, React Native, Node.js, and MERN stack.
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi) ![Followers](https://img.shields.io/github/followers/HassanFirouzi)<br/>
 
-
-<!-- <table width="100%">
-<tr>
-<td align="left">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HassanFirouzi" alt="Visitors" />
-<img src="https://img.shields.io/github/followers/HassanFirouzi" alt="Followers" />
-
-</td>
-
-<td align="right">
-
-<a href="mailto:haspheer@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/hassanfirouzi">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://instagram.com/haspheer">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-
-</td>
-</tr>
-</table> -->
 
 <!--  -->
 
