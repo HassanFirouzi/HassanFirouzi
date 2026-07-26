@@ -1,8 +1,12 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:3A0CA3&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=fff" alt="header" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=200&section=header&text=Hi%2C%20I'm%20Hassan!%20👋🏼&fontSize=40&fontColor=ffffff" alt="header" />
 </div>
+
+
+<!-- Section <img width="100%" height="20" src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,100:0D1117&height=1" alt="divider" /> -->
+
+
+
 
 <div align="center">
 
@@ -217,7 +221,8 @@ Software Developer specializing in React, React Native, Node.js, and the MERN st
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,100:36BCF7&height=120&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:36BCF7&height=120&section=footer" alt="footer" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=120&section=footer" alt="footer" /> -->
 
 </div>
 
