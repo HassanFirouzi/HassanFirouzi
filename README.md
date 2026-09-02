@@ -212,8 +212,16 @@ Software Developer specializing in React, React Native, Node.js, and the MERN st
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="20" alt="JavaScript" />
 
 <div align="center">
-    <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lsuruDilshan/lsuruDilshan/output/pacman-contribution-graph.svg">
+</picture>
 </div>
+
+<!-- <div align="center">
+    <img src="https://profile-readme-generator.com/assets/pacman.svg" style="width: 100%;">
+</div> -->
 
 <!-- MAR <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="wave" />
@@ -222,6 +230,7 @@ Software Developer specializing in React, React Native, Node.js, and the MERN st
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:36BCF7&height=120&section=footer" alt="footer" />
+
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D1117&height=120&section=footer" alt="footer" /> -->
 
 </div>
